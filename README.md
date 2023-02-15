@@ -4,4 +4,5 @@ Complete the function/method so that it returns the url with anything after the 
 Examples
 <br>
 "www.codewars.com#about" --> "www.codewars.com"
+<br>
 "www.codewars.com?page=1" -->"www.codewars.com?page=1"
